@@ -1,0 +1,1 @@
+# Visualizador-de-Imagens-1.0.0.1-Python-
